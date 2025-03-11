@@ -1,5 +1,5 @@
 # Calculator
-📌 Funcionalidades
+Funcionalidades
 
 Aceita entrada via botões na interface ou pelo teclado.
 
@@ -11,7 +11,7 @@ Remove o último caractere digitado.
 
 Suporta a tecla Enter para calcular a expressão digitada.
 
-🚀 Como Funciona
+Como Funciona
 
 O código define uma função createCalculator() que retorna um objeto com métodos para manipular a calculadora.
 
@@ -31,12 +31,12 @@ clickBtn(): Captura os eventos de clique nos botões e chama os métodos apropri
 
 btnToDisplay(value): Adiciona um número ou operador à tela.
 
-⚠️ Observações Importantes
+Observações Importantes
 
 O código usa eval(), o que pode representar riscos de segurança se não for devidamente controlado.
 
 
-📜 Como Usar
+Como Usar
 
 Clone o repositório ou copie o código para um arquivo local.
 
@@ -44,11 +44,4 @@ Adicione o código a um arquivo HTML e associe botões com as classes adequadas.
 
 Abra o arquivo no navegador e comece a calcular!
 
-🛠 Melhorias Futuras
-
-Substituir eval() por uma solução mais segura.
-
-Melhorar a validação das expressões matemáticas.
-
-Estilizar a interface da calculadora.
 
