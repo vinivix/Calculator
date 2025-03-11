@@ -35,7 +35,6 @@ btnToDisplay(value): Adiciona um número ou operador à tela.
 
 O código usa eval(), o que pode representar riscos de segurança se não for devidamente controlado.
 
-Há um erro de digitação: actt deve ser acct dentro de mkAcct().
 
 📜 Como Usar
 
