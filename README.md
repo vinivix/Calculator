@@ -40,7 +40,7 @@ Como Usar
 
 Clone o repositório ou copie o código para um arquivo local.
 
-Adicione o código a um arquivo HTML e associe botões com as classes adequadas.
+Adicione o código a um arquivo HTML.
 
 Abra o arquivo no navegador e comece a calcular!
 
